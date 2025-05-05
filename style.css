@@ -1,0 +1,23 @@
+body {
+    background-color: #fff;
+    color:  #444;
+  }
+  
+  h1, h2 {
+    color: #444;
+  }
+  
+  .btn-warning {
+    background-color: #ffc107;
+    border: none;
+    color: rgb(0, 0, 0);
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    border: none;
+  }
+  
+  footer {
+    background-color: #343a40;
+  }
