@@ -32,22 +32,19 @@ infosyber/
 └── gabinete.jpg
 
 ---
-
-## ⚙️ Como usar
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/infosyber.git
-
+## imagens do site
 
 ![Texto Alternativo](./images//print-home.png)
+
+
 ![Texto Alternativo](./images//print-catalogo.png)
+
+
+----
+
 ✏️ Autor
 Projeto feito por [Wellington pereria de lima iris]
 💻 Técnico em Informática | Estudante de programação front-end
 📧 Contato: [wellestudos510@gmail.com]
 
----
 
-Se quiser, posso adaptar esse README com o link exato do seu GitHub quando você fizer o push. Deseja que eu gere também o `.gitignore` e o comando de inicialização do repositório?
